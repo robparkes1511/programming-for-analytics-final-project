@@ -9,14 +9,14 @@ It contains over 5,600 players with 40+ technical, physical, and mental attribut
 Objectives
 
 The aim of this assignment was to:
-	•	Load, clean, and prepare the dataset using Python and Pandas
-	•	Analyse different player performance attributes
-	•	Explore which technical or physical attributes are most strongly linked to finishing ability
-	•	Create visualisations to support the analysis
-	•	Produce a short set of conclusions based on the results
+- Load, clean, and prepare the dataset using Python and Pandas
+- Analyse different player performance attributes
+- Explore which technical or physical attributes are most strongly linked to finishing ability
+- Create visualisations to support the analysis
+- Produce a short set of conclusions based on the results
 
 Results
-	•	Finishing has the strongest correlations with long shots, shot power, and dribbling
-	•	Speed attributes (acceleration, sprint speed) show weak relationships with finishing
-	•	Market value is influenced by multiple offensive attributes, not one single skill
-	•	Additional analysis included a new technical_skill feature, a simple regression model, and a positional comparison
+- Finishing has the strongest correlations with long shots, shot power, and dribbling
+- Speed attributes (acceleration, sprint speed) show weak relationships with finishing
+- Market value is influenced by multiple offensive attributes, not one single skill
+- Additional analysis included a new technical_skill feature, a simple regression model, and a positional comparison
