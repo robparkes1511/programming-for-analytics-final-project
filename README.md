@@ -15,7 +15,7 @@ The aim of this assignment was to:
 	•	Create visualisations to support the analysis
 	•	Produce a short set of conclusions based on the results
 
-Results (Summary)
+Results
 	•	Finishing has the strongest correlations with long shots, shot power, and dribbling
 	•	Speed attributes (acceleration, sprint speed) show weak relationships with finishing
 	•	Market value is influenced by multiple offensive attributes, not one single skill
